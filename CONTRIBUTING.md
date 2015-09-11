@@ -1,44 +1,44 @@
-Contributing to [opendiversitydata](http://opendiversitydata.org/)
+Bidra till [öppenmångfaldsdata] (http://opendiversitydata.org/)
 =======================
 
-## Contributing
+## Att Bidra
 
-The easiest way to contribute is to file an issue in [Github][issues].
-If you're interested in contributing via pull request, read on.
+Det enklaste sättet att bidra med är att lämna in en fråga i [Github][issues].
+Om du är intresserad av att bidra via pull begäran, läs vidare.
 
-All the data is managed through a series of [Yaml][yaml] files so it may be useful to read
-up on the Yaml syntax.
+Alla data hanteras genom en serie [Yaml][yaml]-filerså det kan vara bra att läsa
+upp på [Yaml syntax](http://docs.ansible.com/ansible/YAMLSyntax.html).
 
-To add a new company, go to the [data files](_data/) and get familiar with
-how it is set up. There is a section and corresponding file for each category and they all follow this
+För att lägga till ett nytt företag, gå till [datafiler](_data/)och bekanta dig med
+hur den är inställd. Det finns ett avsnitt och motsvarande fil för varje kategori och de alla följer detta
 syntax:
 
-### Guidelines
+### Riktlinjer
 
-1. **Use a Nice Icon**: The icon must be 32x32 in dimension.
+1. **Använd a Trevlig Ikon**: Ikonen måste vara 32x32 i storlek.
 
-### New Companies
+### Nya Företag
 
-The values should be pretty straight forward for adding a new company. The
-`companies` array should already be defined, just add a new company to it like
-this example:
+Värdena bör vara ganska rakt fram för att lägga till ett nytt företag. Matrisen för företag
+`companies` bör redan vara definierat, lägg bara till ett nytt bolag för det som
+detta exempel:
 
 ```yml
     companies:
-        - name: Company Name
-          url: https://www.company.com/
-          twitter: CompanyTwitter
-          img: company.png
-          data: Yes
-          eeo-1: Yes
+        - name: Företagsnamn
+          url: https://www.företag.com/
+          twitter: FöretagsTwitter
+          img: företagsikon.png
+          data: Ja
+          eeo-1: Ja
           date-updated: 201X
           documentation: <link to company's diversity data>
 ```
 
-### New Industries
+### Nya Industrier
 
-To add a new category / industry of company, modify the `industry` value in [main.yml](_data/main.yml)
-and follow the template below:
+För att lägga till en ny kategori / industri av företag, ändra värdet `industry` i [main.yml](_data/main.yml)
+och följ mallen nedanför:
 
 ```yml
 sections:
@@ -47,23 +47,23 @@ sections:
     icon: icon-class
 ```
 
-#### Pro Tips
+#### Proffsråd
 
-- See Guideline #1 about icons. The png file should go in the corresponding `img/section` folder.
+- Se Riktlinje #1 om ikoner. Png-filen borde gå i korresponderande mapp `img/section`.
 
-- For the sake of organization and readability, it is appreciated if you insert new companies alphabetically and
-that your company chunk follow the same order as the example above.
+- Av hänsyn till organisation och läsbarhet, är det uppskattat om du sätter nya företag i bokstavsordning och
+att din bit om företaget följer samma ordning som i exemplet ovan.
 
-- If a site does not have data available but there is documentation that they are working on releasing it, then use:
+- Om en webbplats inte har tillgängliga data, men det finns dokumentation som de arbetar på att släppa den och sedan använda:
 
   ```yml
   data: no
   status: <url to documentation>
   ```
   
-### Other Countries
+### Andra Länder
 
-This site is focused on US companies, as there is a standard document format available. If your country has a standard format analogous to the EEO-1, please file an issue as we will be refactoring the site to add more countries.
+Denna webbplats är inriktad på svenska företag, och vi söker efter standarddokumentformat för denna typ av data. Om Sverige har ett standardformat  som EEO-1, skicka in en fråga som vi kan använda platsen för att lägga till fler länder.
 
 [yaml]: http://www.yaml.org/
 [issues]: https://github.com/doubleunion/opendiversitydata/issues

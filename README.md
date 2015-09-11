@@ -1,31 +1,31 @@
-OpenDiversityData.org 
+ÖppenMångfald.org 
 =================
 
-A list of companies (with a focus on Silicon Valley) and whether or not they publish data about employee demographics and diversity.
+En förteckning över företag (med fokus på IT- och teknikföretag) och huruvida de publicerar uppgifter om anställda demografi och mångfald.
 
-## Contact
+## Kontakt
 
-Email us at info at opendiversitydata.org or tweet us at <a href="https://twitter.com/DiversityData">@DiversityData</a>.
+Mejla oss på info på ÖppenMångfald.org eller tweeta oss på <a href="https://twitter.com/DiversityData">@DiversityData</a>
 
-## The Goal
+## Målet
 
-The goal is to have a website with a comprehensive list of companies which publish employee diversity data and demographics, with links to where that data can be found.
+Målet är att ha en webbplats med en omfattande lista över företag som publicerar anonymiserad mångfaldsdata och demografi över anställda, med länkar till var denna data kan hittas.
 
-This data can be useful to decide on where one might want to work, and to encourage companies which do not publish that data to do so.
+Dessa data kan vara användbara för att hjälpa människor besluta om var en kan tänka sig vilja arbeta, och att uppmuntra företag som inte offentliggör dessa data till att göra det.
 
-## Contributing
+## Bidra
 
-If you'd like to contribute, read the guidelines here:
+Om du skulle vilja bidra, läs riktlinjerna här:
 [CONTRIBUTING.md][contrib].
 
-## License
+## Licens
 
-This code is distributed under the MIT license. For more info, read the
-[LICENSE][license] file distributed with the source code.
+Koden är distribuerad under MIT-licensen. För mer info, läs
+[LICENSE][licensen]-filen distribuerad med källkoden.
 
-## Thanks
+## Tack till
 
-This code was forked from the fine folks at <a href="http://twofactorauth.org">twofactorauth.org</a>.
+Denna kod har förgrenats från de fina människorna som gjort projekten <a href="http://opendiversitydata.org">opendiversitydata.org</a> och <a href="http://twofactorauth.org">twofactorauth.org</a>.
 
 [contrib]: /CONTRIBUTING.md
 [license]: /LICENSE
