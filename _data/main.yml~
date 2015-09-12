@@ -7,7 +7,7 @@ sections:
     title: Tjänster
 
   - id: banking
-    title: Banker & Finans
+    title: Finans och Bank
     icon: dollar
 
   - id: defense
@@ -15,6 +15,6 @@ sections:
     icon: globe
 
   - id: other
-    title: Andra
+    title: andra
     icon: globe
 

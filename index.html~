@@ -1,8 +1,8 @@
 ---
 layout: default
 
-link: Berätta för dem att ge ut sin mångfaldsdata
-tweet: Mångfald är viktigt, @TWITTERHANDLE. Snälla gör era anställdas demografiska data öppen och tillgänglig!
+link: Berätta för dem hur viktigt det är att ge ut sin mångfaldsdata
+tweet: Mångfald är viktigt, @TWITTERHANDLE. Snälla gör anställdas demografiska data öppna & tillgängliga!
 
 link_progress: Tacka dem för att arbeta på att publicera deras mångfaldsdata
 tweet_progress: Tack för att ni arbetar på att öppna era mångfaldsuppgifter, @TWITTERHANDLE!
@@ -13,7 +13,7 @@ tweet_success: Tack för att ni publicerade era mångfaldsdata, @TWITTERHANDLE!
 link_update: Säg åt dem att uppdatera
 tweet_update: Era mångfaldsdata uppdaterades senast YEAR, @TWITTERHANDLE. Vänligen uppdatera dem!
 
-hash: #Mångfaldsdata
+hash: Mångfaldsdata
 ---
 
 {% for section in site.data.main.sections %}

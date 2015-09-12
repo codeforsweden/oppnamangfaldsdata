@@ -119,7 +119,7 @@ companies:
     date-updated: YYYY
     status: No
 
-  - name: Redhat Norden
+  - name: Redhat Nordics
     url: http://www.redhat.com/en/global/sweden
     twitter: RedHatNordics
     img: redhat.png

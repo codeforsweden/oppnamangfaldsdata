@@ -1,8 +1,8 @@
 companies:
-  - name: Lägg till!
-    url: https://github.com/okfse/opendiversitydata
-    twitter: 
-    img: 
+  - name: SAAB
+    url: http://saab.com/
+    twitter: saab
+    img:
     diversitydata: No
     eeo-1: No
     documentation: <link to company's diversity data>
