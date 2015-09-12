@@ -1,35 +1,10 @@
 companies:
-  - name: Etsy
-    url: http://www.etsy.com
-    twitter: etsy
-    img: etsy.jpg
-    diversitydata: Yes
+  - name: Lägg till!
+    url: https://github.com/okfse/opendiversitydata
+    twitter: 
+    img: 
+    diversitydata: No
     eeo-1: No
-    documentation: https://blog.etsy.com/news/2014/diversity-at-etsy-more-than-just-numbers
-    date-updated: 2014
-    status: Yes
-
-  - name: Indiegogo
-    url: http://www.indiegogo.com
-    twitter: indiegogo
-    img: indiegogo.jpg
-    diversitydata: Yes
-    eeo-1: No
-    documentation: https://go.indiegogo.com/blog/2014/08/diversity-matters-always.html
-    date-updated: 2014
-    status: Yes
-
-  - name: KickStarter
-    twitter: kickstarter
-    url: http://kickstarter.com/
-    img: kickstarter.jpg
-
-  - name: Pandora
-    url: http://www.pandora.com
-    twitter: pandora_radio
-    img: pandora.png
-    diversitydata: Yes
-    eeo-1: No
-    documentation: http://www.pandora.com/careers/#diversity
-    date-updated: 2014
-    status: Yes
+    documentation: <link to company's diversity data>
+    date-updated:
+    status: No

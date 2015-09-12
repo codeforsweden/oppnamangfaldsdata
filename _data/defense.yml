@@ -5,6 +5,7 @@ companies:
     img: 
     diversitydata: No
     eeo-1: No
+    dcat-ap: No
     documentation: <link to company's diversity data>
     date-updated:
     status: No
@@ -15,6 +16,7 @@ companies:
     img:
     diversitydata: No
     eeo-1: No
+    dcat-ap: No
     documentation: <link to company's diversity data>
     date-updated:
     status: No

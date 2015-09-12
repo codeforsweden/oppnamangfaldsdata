@@ -64,7 +64,7 @@
 Företag och andra organisationer samlar redan uppgifter & data om sina anställdas demografi. Låt oss be dem att publicera den. Öppna mångfaldsdata kommer att göra det lättare för alla att bättre förstå landskapet av mångfald och arbeta mot lösningar.
                     </div>
                     <div class="sub header submit-new-company">
-                        (Ser du inte ett företag som du är intresserad av? Skriv in det genom att <a href="https://github.com/doubleunion/opendiversitydata">lämna in en hämtnings-begäran (pull request) eller fråga</a>, eller e-posta opendiversitydata på gmail punkt com.)
+                        (Ser du inte ett företag som du är intresserad av? Skriv in det genom att <a href="https://github.com/doubleunion/opendiversitydata">lämna in en hämtnings-begäran (pull request) eller fråga</a>, eller e-posta mangfaldsdata @ okfn punkt se.)
                     </div>
                 </div>
 
@@ -78,8 +78,8 @@ Företag och andra organisationer samlar redan uppgifter & data om sina anställ
     <div class="ui divider"></div>
 
     <div class="footer ui basic segment">
-        Har du en fråga, vill rapportera ett problem eller vill bidra till den här webbplatsen? Gaffla (Forka) den eller skapa en fråga på
-        <a href="https://github.com/okfse/opendiversitydata">GitHub</a>.
+        Har du en fråga, vill rapportera ett problem eller vill bidra till den här webbplatsen? Förgrena (Forka) den eller skapa en fråga på
+        <a href="https://github.com/okfse/oppenmangfaldsdata">GitHub</a>.
     </div>
 
     <div class="ui divider"></div>
@@ -87,11 +87,11 @@ Företag och andra organisationer samlar redan uppgifter & data om sina anställ
     <div class="footer ui basic segment">
         Skapad av medlemmar vid <a href="http://okfn.se">Open Knowledge Sverige</a>
         med hjälp från några häftiga
-        <a href="https://github.com/oppenmangfaldsdata/graphs/contributors">Bidragsgivare</a>.
+        <a href="https://github.com/okfse/opendiversitydata/graphs/contributors">Bidragsgivare</a>.
     </div>
 
     <!-- 3rd Party Libraries -->
-    <script src="//code.jquery.com/jquery-2.1.0.js"></script>
+    <script src="https://code.jquery.com/jquery-2.1.0.js"></script>
     <script src="/lib/semantic/javascript/semantic.js"></script>
 
     <!-- TFA JS -->

@@ -1,4 +1,14 @@
 companies:
+  - name: Addera fler!
+    url: https://github.com/okfse/opendiversitydata
+    twitter: 
+    img: 
+    diversitydata: No
+    eeo-1: No
+    documentation: <link to company's diversity data>
+    date-updated:
+    status: No
+
   - name: SAAB
     url: http://saab.com/
     twitter: saab

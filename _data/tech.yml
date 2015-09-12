@@ -5,6 +5,7 @@ companies:
     img: 
     diversitydata: No
     eeo-1: No
+    dcat-ap: No
     documentation: <link to company's diversity data>
     date-updated:
     status: No
@@ -15,6 +16,7 @@ companies:
     img: apple.png
     diversitydata: No
     eeo-1: No
+    dcat-ap: No
     documentation: https://apple.com/diversity
     date-updated: YYYY
     status: No
@@ -25,6 +27,7 @@ companies:
     img: google.png
     diversitydata: No
     eeo-1: No
+    dcat-ap: No
     documentation: http://www.google.com/diversity/at-google.html
     date-updated: YYYY
     status: No
@@ -35,6 +38,7 @@ companies:
     img: cisco.jpeg
     diversitydata: No
     eeo-1: No
+    dcat-ap: No
     documentation: http://www.cisco.com/assets/csr/pdf/CSR_Report_2013.pdf
     date-updated: No
     status: No
@@ -45,6 +49,7 @@ companies:
     img:
     diversitydata: No
     eeo-1: No
+    dcat-ap: No
     documentation: <link to company's diversity data>
     date-updated: YYYY
     status: No
@@ -55,6 +60,7 @@ companies:
     img: facebook.png
     diversitydata: No
     eeo-1: No
+    dcat-ap: No
     documentation: <link to company's diversity data>
     date-updated: YYYY
     status: No
@@ -64,7 +70,8 @@ companies:
     twitter: Groupon_sve
     img: groupon.png
     diversitydata: No
-    eeo-1: Yes
+    eeo-1: No
+    dcat-ap: No
     documentation: <link to company's diversity data>
     date-updated: YYYY
     status: No
@@ -75,6 +82,7 @@ companies:
     img: HP.png
     diversitydata: No
     eeo-1: No
+    dcat-ap: No
     documentation: <link to company's diversity data>
     date-updated: YYYY
     status: No
@@ -85,6 +93,7 @@ companies:
     img: ingrammicro.jpeg
     diversitydata: No
     eeo-1: No
+    dcat-ap: No
     documentation: <link to company's diversity data>
     date-updated: YYYY
     status: No
@@ -95,6 +104,7 @@ companies:
     img: ibm.jpeg
     diversitydata: No
     eeo-1: No
+    dcat-ap: No
     documentation: <link to company's diversity data>
     date-updated: YYYY
     status: No
@@ -105,6 +115,7 @@ companies:
     img: microsoft.jpeg
     diversitydata: No
     eeo-1: No
+    dcat-ap: No
     documentation: <link to company's diversity data>
     date-updated: YYYY
     status: No
@@ -115,6 +126,7 @@ companies:
     img: oracle.jpg
     diversitydata: No
     eeo-1: No
+    dcat-ap: No
     documentation: <link to company's diversity data>
     date-updated: YYYY
     status: No
@@ -125,6 +137,7 @@ companies:
     img: redhat.png
     diversitydata: No
     eeo-1: No
+    dcat-ap: No
     documentation: <link to company's diversity data>
     date-updated: YYYY
     status: No
