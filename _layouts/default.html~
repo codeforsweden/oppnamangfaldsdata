@@ -61,7 +61,7 @@
 </br>Men hur bra är organisationer i Sverige på att inkludera dem? 
 </br>
 </br>
-Företag och andra organisationer samlar redan uppgifter & data om sina anställdas demografi. Låt oss be dem att publicera den. Öppna mångfaldsdata kommer att göra det lättare för alla att bättre förstå landskapet av mångfald och arbeta mot lösningar.
+Företag och andra organisationer samlar redan uppgifter & data om sina anställdas demografi. Låt oss be dem att publicera den. Öppna mångfaldsdata göra det lättare för alla att bättre förstå landskapet av mångfald och arbeta mot lösningar.
                     </div>
                     <div class="sub header submit-new-company">
                         (Ser du inte ett företag som du är intresserad av? Skriv in det genom att <a href="https://github.com/doubleunion/opendiversitydata">lämna in en hämtnings-begäran (pull request) eller fråga</a>, eller e-posta mangfaldsdata @ okfn punkt se.)
@@ -91,7 +91,7 @@ Företag och andra organisationer samlar redan uppgifter & data om sina anställ
     </div>
 
     <!-- 3rd Party Libraries -->
-    <script src="https://code.jquery.com/jquery-2.1.0.js"></script>
+    <script src="http://code.jquery.com/jquery-2.1.0.js"></script>
     <script src="/lib/semantic/javascript/semantic.js"></script>
 
     <!-- TFA JS -->

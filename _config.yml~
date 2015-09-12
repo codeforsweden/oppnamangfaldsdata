@@ -5,9 +5,9 @@ markdown: kramdown
 title: Open Diversity Data
 author: Open Knowledge Sweden
 description:
-    Förteckning av företag som har gett ut data om deras anställdas mångfald, inklusive EEO-1 formulärList of companies who have released data about their employee diversity, including EEO-1 forms.
+    Förteckning av företag som har gett ut data om deras anställdas mångfald, inklusive EEO-1 formulär.
 url: http://opendiversitydata.org
-repo: https://github.com/doubleunion/opendiversitydata
+repo: https://github.com/okfse/opendiversitydata
 img: img/logo.png
 
 exclude:
