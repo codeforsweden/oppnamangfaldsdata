@@ -57,7 +57,11 @@
                 <div class="banner ui icon header">
                     <img src="img/logo.png" />
                     <h2 class="main-title">Öppen Mångfaldsdata</h2>
-                    <div class="sub header">Företag samlar redan uppgifter & data om sina anställdas demografi. Låt oss be dem att publicera den. Öppna mångfaldsdata kommer att göra det lättare för alla att bättre förstå landskapet av mångfald och arbeta mot lösningar.
+                    <div class="sub header">Människor flyr världen över. En del finner säkra hem bland annat i Sverige. 
+</br>Men hur bra är organisationer i Sverige på att inkludera dem? 
+</br>
+</br>
+Företag och andra organisationer samlar redan uppgifter & data om sina anställdas demografi. Låt oss be dem att publicera den. Öppna mångfaldsdata kommer att göra det lättare för alla att bättre förstå landskapet av mångfald och arbeta mot lösningar.
                     </div>
                     <div class="sub header submit-new-company">
                         (Ser du inte ett företag som du är intresserad av? Skriv in det genom att <a href="https://github.com/doubleunion/opendiversitydata">lämna in en hämtnings-begäran (pull request) eller fråga</a>, eller e-posta opendiversitydata på gmail punkt com.)
@@ -74,7 +78,7 @@
     <div class="ui divider"></div>
 
     <div class="footer ui basic segment">
-        Har du en fråga, vill rapportera ett problem eller vill bidra till den här webbplatsen? Gaffla den eller skapa en fråga på
+        Har du en fråga, vill rapportera ett problem eller vill bidra till den här webbplatsen? Gaffla (Forka) den eller skapa en fråga på
         <a href="https://github.com/okfse/opendiversitydata">GitHub</a>.
     </div>
 
