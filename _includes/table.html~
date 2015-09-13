@@ -5,7 +5,7 @@
                             <th class="six wide"><h2>{{ section.title }}</h2></th>
                             <th>Data</th>
                             <th><a href="http://www.eeoc.gov/employers/eeo1survey/" title="Detta kommer att checkas om data som tillgängliggjorts inkluderar data likvärdig amerikanska organisationers hela EEO-1 formulär">EEO-1</a></th>
-			    <th><a href="http://www.vidareutnyttjande.se/skapa-och-publicera-oppna-data/pa-vilket-satt-ska-informationen-finnas-tillganglig/information-om-en-infromationsresurs/" title="Detta kommer att checkas om data som tillgängliggjorts är följer den öppna standarden DCAT-AP för länkade öppna data som är maskinläsbar">DCAT-AP</a></th>
+			    <th><a href="http://www.vidareutnyttjande.se/skapa-och-publicera-oppna-data/att-komma-igang-med-oppna-data/lankade-oppna-data/" title="Detta kommer att checkas om data som tillgängliggjorts är följer den öppna standarden DCAT-AP för länkade öppna data som är maskinläsbar">DCAT-AP</a></th>
                             <th>Uppdaterad</th>
                             <th class="three wide">Tweeta</th>
                         </tr>
