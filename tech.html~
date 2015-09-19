@@ -12,9 +12,10 @@ hash: #Mångfaldsdata
 
     <div class="banner ui icon header">
         <i class="code icon"></i>
-        <h2>Mångfaldsdata Övriga</h2>
-        <div class="sub header">Lista över icke-tekniska bolag och bankbolag och huruvida de publicerar data om sina anställdas demografi och mångfald eller inte.
+        <h2>Mångfaldsdata IT- och Teknik</h2>
+        <div class="sub header">Lista över IT- och teknikbolag och huruvida de publicerar data om sina anställdas demografi och mångfald eller inte.
         </div>
-        <div class="sub header">Lägg till företag som du är intresserad av genom att <a href="https://github.com/okfse/opendiversitydata">skickar in en "pull"-begäran eller skapa en fråga</a>.
+        <div class="sub header">Lägg till företag som du är intresserad av genom att <a href="https://github.com/okfse/opendiversitydata">skickar en "pull"-begäran eller skapa en fråga</a>.
         </div>
     </div>
+
