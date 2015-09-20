@@ -1,11 +1,11 @@
 companies:
   - name: Addera fler!
-    url: https://github.com/okfse/opendiversitydata
+    url: https://github.com/okfse/oppnamangfaldsdata
     twitter: 
     img: 
-    diversitydata: No
-    eeo-1: No
-    dcat-ap: No
+    diversitydata: Yes
+    eeo-1: Yes
+    dcat-ap: Yes
     documentation: <link to company's diversity data>
     date-updated:
     status: No
