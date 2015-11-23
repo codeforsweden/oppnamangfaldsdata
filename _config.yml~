@@ -4,12 +4,13 @@ markdown: kramdown
 
 title: Öppna Mångfaldsdata
 author: Open Knowledge Sverige
-description: Crowdsourcad lista om företag som har gett ut data om deras anställdas mångfald, inklusive vilket år och om det gjorts med DCAT-AP, den öppna standarden för länkade öppna data.
+description: Användardriven lista om företag som har gett ut data om deras anställdas mångfald, inklusive vilket år och om det gjorts med DCAT-AP, den öppna standarden för länkade öppna data.
 url: http://oppnamangfaldsdata.se
 repo: https://github.com/okfse/oppnamangfaldsdata
 img: img/logo.png
 
 exclude:
+    - om.html
     - CNAME
     - CONTRIBUTING.md
     - LICENSE

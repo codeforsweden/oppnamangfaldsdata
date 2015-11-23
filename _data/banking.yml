@@ -13,7 +13,7 @@ companies:
   - name: SEB
     url: http://seb.se/
     twitter: sebsverige
-    img:
+    img: seb.jpg
     diversitydata: No
     eeo-1: No
     dcat-ap: No

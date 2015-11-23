@@ -2,7 +2,7 @@
 layout: default
 
 link: Berätta för dem att ge ut sin mångfaldsdata
-tweet: Mångfald är viktigt, @TWITTERHANDLE. Snälla gör era anställdas demografiska data öppen och tillgänglig!
+tweet: Mångfald är viktigt, @TWITTERHANDLE. Snälla gör er styrelses & anställdas demografiska data öppen och tillgänglig!
 
 link_progress: Tacka dem för att arbeta på att publicera deras mångfaldsdata
 tweet_progress: Tack för att ni arbetar på att öppna era mångfaldsuppgifter, @TWITTERHANDLE!
@@ -15,6 +15,6 @@ hash: #Mångfaldsdata
         <h2>Mångfaldsdata Övriga</h2>
         <div class="sub header">Lista över icke-tekniska bolag och bankbolag och huruvida de publicerar data om sina anställdas demografi och mångfald eller inte.
         </div>
-        <div class="sub header">Lägg till företag som du är intresserad av genom att <a href="https://github.com/okfse/opendiversitydata">skickar in en "pull"-begäran eller skapa en fråga</a>.
+        <div class="sub header">Lägg till företag som du är intresserad av genom att <a href="https://github.com/okfse/oppnamangfaldsdata">skickar in en "pull"-begäran eller skapa en fråga</a>.
         </div>
     </div>
