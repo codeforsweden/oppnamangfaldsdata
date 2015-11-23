@@ -95,15 +95,14 @@ Företag och andra organisationer samlar redan uppgifter & data om sina anställ
 
     <div class="footer ui basic segment">
         Har du en fråga, vill rapportera ett problem eller vill bidra till den här webbplatsen? Förgrena (Forka) den eller skapa en fråga på
-        <a href="https://github.com/okfse/oppnamangfaldsdata">GitHub</a>.
-    </div>
+        <a href="https://github.com/okfse/oppnamangfaldsdata">GitHub</a>. Vill du hjälpa till med projektet kan du få en överblick vid <a href="https://tree.taiga.io/project/okfsemattias-okfse-opendiversitydata/">Taiga.io</a>! Hör av dig via e-post om du vill ha en inbjudan för att hjälpa till!    
+	</div> 
 
     <div class="ui divider"></div>
 
     <div class="footer ui basic segment">
-        Skapad av medlemmar vid <a href="http://okfn.se">Open Knowledge Sverige</a>
-        med hjälp från några häftiga
-        <a href="https://github.com/okfse/oppnamangfaldsdata/graphs/contributors">medskapare</a>.
+        Skapad av medlemmar vid <a href="http://okfn.se">Open Knowledge Sverige</a> under ett unhackathon för säkrare migrationsvägar vid <a href="http://kaospilot.dk">Kaospilot</a> i Århus, Danmark - med hjälp från några häftiga
+        <a href="https://github.com/okfse/oppnamangfaldsdata/graphs/contributors">medskapare</a>. Tack till <a href="http://opendiversitydata.org/">OpenDiversityData.org</a> och <a href="https://twofactorauth.org">TwoFactorAuth.org</a> (2FA) för inspiration och kod.
     </div>
 
     <!-- 3rd Party Libraries -->
