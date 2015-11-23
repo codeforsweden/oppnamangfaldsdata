@@ -57,18 +57,18 @@
                 <div class="banner ui icon header">
                     <img src="img/logo.png" />
                     <h2 class="main-title">Öppna Mångfaldsdata</h2>
-                    <div class="sub header">Människor migrerar över hela världen. En mångfald av människor har funnit en framtid i Sverige. 
+                    <div class="sub header">Människor migrerar över hela världen. En mångfald av människor framtid i Sverige. 
 </br>
 Men hur bra är organisationer i Sverige på att inkludera mångfalden av människor? 
 </br>
 </br>
-Företag och andra organisationer samlar redan uppgifter & data om sina anställdas demografi. Låt oss be dem att publicera den. Öppna mångfaldsdata gör det lättare för alla att bättre förstå landskapet av mångfald. Det möjliggör att kunna arbeta för lösningar.
+Företag och andra organisationer samlar redan uppgifter & data om sina anställdas demografi för att jobba mot bättre mångfald. Låt oss be dem att publicera den. Öppna mångfaldsdata gör det lättare för alla att bättre förstå landskapet av mångfald. Det möjliggör att lättare kunna arbeta för lösningar.
 </br>
 </br>
-Öppna Mångfaldsdata har vi valt att definiera genom <a href="http://www.riksdagen.se/sv/Dokument-Lagar/Lagar/Svenskforfattningssamling/Diskrimineringslag-2008567_sfs-2008-567/">Diskrimineringslagen (2008:567)</a> som inkluderar följande: <i>kön (inklusive graviditet), könsöverskridande identitet eller uttryck, etnisk tillhörighet, religion och andra trosuppfattningar, funktionshinder, nationellt ursprung, sexuell läggning och ålder.</i>
+Öppna Mångfaldsdata har vi valt att definiera genom att inspireras av <a href="http://www.riksdagen.se/sv/Dokument-Lagar/Lagar/Svenskforfattningssamling/Diskrimineringslag-2008567_sfs-2008-567/">Diskrimineringslagen (2008:567)</a> som inkluderar följande: <i>kön, könsöverskridande identitet eller uttryck, funktionshinder, nationellt ursprung, sexuell läggning och ålder men med undantag för etnisk tillhörighet, religion och andra trosuppfattningar, graviditet och politiska åsikter. Detta är baserat på Datainspektionens information om <a href="http://www.datainspektionen.se/lagar-och-regler/personuppgiftslagen/arbetslivet/#kansliga">personuppgiftslagen i arbetslivet</a>.</i> och tillgängliggörandet av dessa typer av data ska ske med arbetstagarens <a href="http://www.datainspektionen.se/lagar-och-regler/personuppgiftslagen/samtycke/">samtycke</a>.
                     </div>
                     <div class="sub header submit-new-company">
-                        (Ser du inte ett företag som du är intresserad av? Skriv in det genom att <a href="https://github.com/okfse/oppnamangfaldsdata">skicka in en hämtnings-begäran (pull request) eller fråga</a>, eller e-posta mangfaldsdata @ okfn punkt se.)
+                        (Ser du inte ett företag som du är intresserad av? Skriv in det genom att <a href="https://github.com/okfse/oppnamangfaldsdata">skicka in en hämtnings-begäran (pull request) eller fråga</a>, eller e-posta mangfaldsdata [at] okfn [punkt] se.
                     </div>
                 </div>
 
