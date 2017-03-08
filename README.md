@@ -1,4 +1,4 @@
-ÖppenMangfaldsdata.se 
+OppnaMangfaldsdata.se 
 =================
 
 En förteckning över företag (med fokus på IT- och teknikföretag) och organisationer om huruvida de publicerar uppgifter om deras styrelses demografi, jämställdhet och mångfald.
