@@ -1,15 +1,3 @@
-companies:
-  - name: Lägg till fler!
-    url: https://github.com/okfse/oppnamangfaldsdata
-    twitter: 
-    img: 
-    diversitydata: No
-    eeo-1: No
-    dcat-ap: No
-    documentation: <link to company's diversity data>
-    date-updated:
-    status: No
-
   - name: SEB
     url: http://seb.se/
     twitter: sebsverige
