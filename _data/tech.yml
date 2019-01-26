@@ -21,10 +21,43 @@ companies:
     date-updated: YYYY
     status: No
 
-  - name: Redhat Norden
-    url: http://www.redhat.com/en/global/sweden
-    twitter: RedHatNordics
-    img: redhat.png
+  - name: Blocket
+    url: https://www.blocket.se/
+    twitter: blocketse
+    img: blocket.jpg
+    diversitydata: No
+    eeo-1: No
+    dcat-ap: No
+    documentation: <link to company's diversity data>
+    date-updated: YYYY
+    status: No
+
+  - name: Klarna
+    url: https://www.klarna.se/
+    twitter: Klarna
+    img: klarna.jpg
+    diversitydata: No
+    eeo-1: No
+    dcat-ap: No
+    documentation: <link to company's diversity data>
+    date-updated: YYYY
+    status: No
+
+  - name: Spotify
+    url: https://www.spotify.se/
+    twitter: Spotify
+    img: spotify.jpg
+    diversitydata: No
+    eeo-1: No
+    dcat-ap: No
+    documentation: <link to company's diversity data>
+    date-updated: YYYY
+    status: No
+
+  - name: Ericsson
+    url: https://www.ericsson.se/
+    twitter: EricssonSverige
+    img: ericsson.jpg
     diversitydata: No
     eeo-1: No
     dcat-ap: No
@@ -43,6 +76,16 @@ companies:
     date-updated: YYYY
     status: No
 
+  - name: Redhat Norden
+    url: http://www.redhat.com/en/global/sweden
+    twitter: RedHatNordics
+    img: redhat.png
+    diversitydata: No
+    eeo-1: No
+    dcat-ap: No
+    documentation: <link to company's diversity data>
+    date-updated: YYYY
+    status: No
 
   - name: Facebook
     url: https://sv-se.facebook.com/
