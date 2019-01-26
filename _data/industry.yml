@@ -1,8 +1,8 @@
 companies:
   - name: SKF
     url: https://www.skf.com/se/index.html
-    twitter: 
-    img: 
+    twitter: SKFgroup
+    img: skf.jpg
     diversitydata: No
     eeo-1: No
     dcat-ap: No
@@ -13,7 +13,7 @@ companies:
   - name: Boliden
     url: https://www.boliden.com/sv
     twitter:  
-    img: 
+    img: boliden.jpg
     diversitydata: No
     eeo-1: No
     dcat-ap: No
@@ -24,7 +24,7 @@ companies:
   - name: Swedish Match
     url: https://www.swedishmatch.se/ 
     twitter:  
-    img: 
+    img: swedishmatch.jpg
     diversitydata: No
     eeo-1: No
     dcat-ap: No
@@ -35,7 +35,7 @@ companies:
   - name: Scania
     url: https://www.scania.com/se/sv/home.html 
     twitter: ScaniaGroup
-    img: 
+    img: scania.jpg
     diversitydata: No
     eeo-1: No
     dcat-ap: No
