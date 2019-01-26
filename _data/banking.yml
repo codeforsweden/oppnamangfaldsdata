@@ -20,3 +20,91 @@ companies:
     documentation: <link to company's diversity data>
     date-updated: YYYY
     status: No
+
+  - name: Nordea
+    url: https://www.nordea.se/
+    twitter: Nordea_SE
+    img: nordea.jpg
+    diversitydata: No
+    eeo-1: No
+    dcat-ap: No
+    documentation: <link to company's diversity data>
+    date-updated: YYYY
+    status: No
+
+  - name: Swedbank
+    url: https://www.swedbank.se/
+    twitter: Swedbank
+    img: swedbank.jpg
+    diversitydata: No
+    eeo-1: No
+    dcat-ap: No
+    documentation: <link to company's diversity data>
+    date-updated: YYYY
+    status: No
+
+  - name: Handelsbanken
+    url: https://www.handelsbanken.se/
+    twitter: Handelsbanken
+    img: handelsbaken.jpg
+    diversitydata: No
+    eeo-1: No
+    dcat-ap: No
+    documentation: <link to company's diversity data>
+    date-updated: YYYY
+    status: No
+
+  - name: Länsförsäkringar
+    url: https://www.lansforsakringar.se/privat/
+    twitter: forsakringar
+    img: lansforsakringar.jpg
+    diversitydata: No
+    eeo-1: No
+    dcat-ap: No
+    documentation: <link to company's diversity data>
+    date-updated: YYYY
+    status: No
+
+  - name: Skandia
+    url: https://www.skandia.se/
+    twitter: SkandiaSE
+    img: skandia.png
+    diversitydata: No
+    eeo-1: No
+    dcat-ap: No
+    documentation: <link to company's diversity data>
+    date-updated: YYYY
+    status: No
+
+  - name: Danske Bank
+    url: https://danskebank.se/
+    twitter: DanskeBankSE
+    img: danskebank.jpg
+    diversitydata: No
+    eeo-1: No
+    dcat-ap: No
+    documentation: <link to company's diversity data>
+    date-updated: YYYY
+    status: No
+
+  - name: Ekobanken
+    url: https://www.ekobanken.se/
+    twitter: _Ekobanken
+    img: ekobanken.jpg
+    diversitydata: No
+    eeo-1: No
+    dcat-ap: No
+    documentation: <link to company's diversity data>
+    date-updated: YYYY
+    status: No
+
+  - name: JAK Medlemsbank
+    url: https://jak.se/
+    twitter: JAKMedlemsbank
+    img: jak.jpg
+    diversitydata: No
+    eeo-1: No
+    dcat-ap: No
+    documentation: <link to company's diversity data>
+    date-updated: YYYY
+    status: No
