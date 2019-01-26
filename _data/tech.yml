@@ -54,10 +54,21 @@ companies:
     date-updated: YYYY
     status: No
 
-  - name: Blocket
-    url: https://www.blocket.se/
-    twitter: blocketse
-    img: blocket.jpg
+  - name: Telia
+    url: https://www.telia.se/
+    twitter: TeliaSverige
+    img: telia.jpg
+    diversitydata: No
+    eeo-1: No
+    dcat-ap: No
+    documentation: <link to company's diversity data>
+    date-updated: YYYY
+    status: No
+
+  - name: Electrolux
+    url: https://www.electrolux.se/
+    twitter: ElectroluxSE
+    img: electrolux.jpg
     diversitydata: No
     eeo-1: No
     dcat-ap: No
