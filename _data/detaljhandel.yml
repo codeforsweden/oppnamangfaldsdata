@@ -2,7 +2,7 @@ companies:
   - name: Ikea
     url: https://github.com/okfse/oppnamangfaldsdata
     twitter: 
-    img: 
+    img: ikea.png
     diversitydata: No
     eeo-1: No
     dcat-ap: No
