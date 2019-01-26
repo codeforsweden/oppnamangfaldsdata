@@ -1,8 +1,8 @@
 companies:
-  - name: JM 
-    url: https://www.jm.se/ 
-    twitter: JM_AB
-    img: jm.png
+  - name: SKF
+    url: https://www.skf.com/se/index.html
+    twitter: SKFgroup
+    img: skf.jpg
     diversitydata: No
     eeo-1: No
     dcat-ap: No
@@ -10,10 +10,10 @@ companies:
     date-updated:
     status: No
 
-  - name: SAS 
-    url: https://www.sas.se/ 
-    twitter: SAS
-    img: sas.jpg
+  - name: Swedish Match
+    url: https://www.swedishmatch.se/ 
+    twitter:  Swedish_Match
+    img: swedishmatch.jpg
     diversitydata: No
     eeo-1: No
     dcat-ap: No
@@ -21,10 +21,10 @@ companies:
     date-updated:
     status: No
 
-  - name: Scandic Hotel Group
-    url: https://www.scandichotelsgroup.com/en/
-    twitter: ScandicGlobal
-    img: scandic.jpg
+  - name: Scania
+    url: https://www.scania.com/se/sv/home.html 
+    twitter: ScaniaGroup
+    img: scania.jpg
     diversitydata: No
     eeo-1: No
     dcat-ap: No

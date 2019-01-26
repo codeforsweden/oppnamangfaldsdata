@@ -1,13 +1,112 @@
 companies:
-  - name: Addera fler!
-    url: https://github.com/okfse/oppnamangfaldsdata
-    twitter: 
-    img: 
+  - name: Com Hem
+    url: 
+    twitter: ComHemAB
+    img: comhem.jpg
     diversitydata: No
     eeo-1: No
     dcat-ap: No
     documentation: <link to company's diversity data>
     date-updated:
+    status: No
+
+  - name: Tradera
+    url: https://www.tradera.com/
+    twitter: Tradera
+    img: tradera.jpg
+    diversitydata: No
+    eeo-1: No
+    dcat-ap: No
+    documentation: <link to company's diversity data>
+    date-updated: YYYY
+    status: No
+
+  - name: Blocket
+    url: https://www.blocket.se/
+    twitter: blocketse
+    img: blocket.jpg
+    diversitydata: No
+    eeo-1: No
+    dcat-ap: No
+    documentation: <link to company's diversity data>
+    date-updated: YYYY
+    status: No
+
+  - name: Klarna
+    url: https://www.klarna.se/
+    twitter: Klarna
+    img: klarna.jpg
+    diversitydata: No
+    eeo-1: No
+    dcat-ap: No
+    documentation: <link to company's diversity data>
+    date-updated: YYYY
+    status: No
+
+  - name: Spotify
+    url: https://www.spotify.se/
+    twitter: Spotify
+    img: spotify.jpg
+    diversitydata: No
+    eeo-1: No
+    dcat-ap: No
+    documentation: <link to company's diversity data>
+    date-updated: YYYY
+    status: No
+
+  - name: Ericsson
+    url: https://www.ericsson.se/
+    twitter: EricssonSverige
+    img: ericsson.jpg
+    diversitydata: No
+    eeo-1: No
+    dcat-ap: No
+    documentation: <link to company's diversity data>
+    date-updated: YYYY
+    status: No
+
+  - name: Telia
+    url: https://www.telia.se/
+    twitter: TeliaSverige
+    img: telia.jpg
+    diversitydata: No
+    eeo-1: No
+    dcat-ap: No
+    documentation: <link to company's diversity data>
+    date-updated: YYYY
+    status: No
+
+  - name: Electrolux
+    url: https://www.electrolux.se/
+    twitter: ElectroluxSE
+    img: electrolux.jpg
+    diversitydata: No
+    eeo-1: No
+    dcat-ap: No
+    documentation: <link to company's diversity data>
+    date-updated: YYYY
+    status: No
+
+  - name: Redhat Norden
+    url: http://www.redhat.com/en/global/sweden
+    twitter: RedHatNordics
+    img: redhat.png
+    diversitydata: No
+    eeo-1: No
+    dcat-ap: No
+    documentation: <link to company's diversity data>
+    date-updated: YYYY
+    status: No
+
+  - name: Facebook
+    url: https://sv-se.facebook.com/
+    twitter: Facebook
+    img: facebook.png
+    diversitydata: No
+    eeo-1: No
+    dcat-ap: No
+    documentation: <link to company's diversity data>
+    date-updated: YYYY
     status: No
 
   - name: Apple
@@ -41,28 +140,6 @@ companies:
     dcat-ap: No
     documentation: http://www.cisco.com/assets/csr/pdf/CSR_Report_2013.pdf
     date-updated: No
-    status: No
-
-  - name: Tradera
-    url: https://www.tradera.com/
-    twitter: Tradera
-    img:
-    diversitydata: No
-    eeo-1: No
-    dcat-ap: No
-    documentation: <link to company's diversity data>
-    date-updated: YYYY
-    status: No
-
-  - name: Facebook
-    url: https://sv-se.facebook.com/
-    twitter: Facebook
-    img: facebook.png
-    diversitydata: No
-    eeo-1: No
-    dcat-ap: No
-    documentation: <link to company's diversity data>
-    date-updated: YYYY
     status: No
 
   - name: Groupon
@@ -124,17 +201,6 @@ companies:
     url: http://www.oracle.com/se
     twitter: OracleSverige
     img: oracle.jpg
-    diversitydata: No
-    eeo-1: No
-    dcat-ap: No
-    documentation: <link to company's diversity data>
-    date-updated: YYYY
-    status: No
-
-  - name: Redhat Norden
-    url: http://www.redhat.com/en/global/sweden
-    twitter: RedHatNordics
-    img: redhat.png
     diversitydata: No
     eeo-1: No
     dcat-ap: No

@@ -1,0 +1,24 @@
+companies:
+  - name: Ikea
+    url: https://www.ikea.com/se/sv/
+    twitter: IKEASverige
+    img: ikea.png
+    diversitydata: No
+    eeo-1: No
+    dcat-ap: No
+    documentation: <link to company's diversity data>
+    date-updated:
+    status: No
+
+  - name: Clas Ohlson
+    url: https://www.clasohlson.com/se/
+    twitter: ClasOhlsonSve
+    img: claesohlson.jpeg
+    diversitydata: No
+    eeo-1: No
+    dcat-ap: No
+    documentation: <link to company's diversity data>
+    date-updated:
+    status: No
+
+
