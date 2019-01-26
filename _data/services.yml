@@ -9,3 +9,36 @@ companies:
     documentation: <link to company's diversity data>
     date-updated:
     status: No
+
+  - name: JM 
+    url: https://www.jm.se/ 
+    twitter: JM_AB
+    img: 
+    diversitydata: No
+    eeo-1: No
+    dcat-ap: No
+    documentation: <link to company's diversity data>
+    date-updated:
+    status: No
+
+ - name: SAS 
+    url: https://www.sas.se/ 
+    twitter: SAS
+    img: 
+    diversitydata: No
+    eeo-1: No
+    dcat-ap: No
+    documentation: <link to company's diversity data>
+    date-updated:
+    status: No
+
+  - name: Scandic Hotel Group
+    url: https://www.scandichotelsgroup.com/en/
+    twitter: ScandicGlobal
+    img: 
+    diversitydata: No
+    eeo-1: No
+    dcat-ap: No
+    documentation: <link to company's diversity data>
+    date-updated:
+    status: No
