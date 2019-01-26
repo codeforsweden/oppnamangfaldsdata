@@ -1,18 +1,7 @@
 companies:
-  - name: Ikea
-    url: https://www.ikea.com/se/sv/
-    twitter: IKEASverige
-    img: ikea.png
-    diversitydata: No
-    eeo-1: No
-    dcat-ap: No
-    documentation: <link to company's diversity data>
-    date-updated:
-    status: No
-
-  - name: Clas Ohlson
-    url: https://www.clasohlson.com/se/
-    twitter: ClasOhlsonSve
+  - name: SKF
+    url: https://www.skf.com/se/index.html
+    twitter: 
     img: 
     diversitydata: No
     eeo-1: No
@@ -21,4 +10,13 @@ companies:
     date-updated:
     status: No
 
-
+  - name: Boliden
+    url: https://www.boliden.com/sv
+    twitter:  
+    img: 
+    diversitydata: No
+    eeo-1: No
+    dcat-ap: No
+    documentation: <link to company's diversity data>
+    date-updated:
+    status: No

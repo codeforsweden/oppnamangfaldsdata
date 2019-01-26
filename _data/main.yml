@@ -1,4 +1,8 @@
 sections:
+  - id: industry
+    title: Industri
+    icon: code
+
   - id: tech
     title: IT- & Teknik
     icon: code
