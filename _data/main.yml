@@ -3,6 +3,11 @@ sections:
     title: IT- & Teknik
     icon: code
 
+    sections:
+  - id: detaljhandel
+    title: DetaljHandel
+    icon: code
+
   - id: services
     title: Tjänster
 
