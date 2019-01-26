@@ -10,17 +10,6 @@ companies:
     date-updated:
     status: No
 
-  - name: Boliden
-    url: https://www.boliden.com/sv
-    twitter:  
-    img: boliden.jpg
-    diversitydata: No
-    eeo-1: No
-    dcat-ap: No
-    documentation: <link to company's diversity data>
-    date-updated:
-    status: No
-
   - name: Swedish Match
     url: https://www.swedishmatch.se/ 
     twitter:  Swedish_Match
