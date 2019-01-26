@@ -5,7 +5,7 @@ sections:
 
     sections:
   - id: detaljhandel
-    title: DetaljHandel
+    title: Detaljhandel
     icon: code
 
   - id: services
