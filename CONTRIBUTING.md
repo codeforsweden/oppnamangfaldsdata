@@ -26,7 +26,7 @@ detta exempel:
 ```yml
     companies:
         - name: Företagsnamn
-          url: https://www.företag.com/
+          url: https://www.företag.se/
           twitter: Företagets Twitter-konto @Exempel
           img: företagsikon.png
           data: Ja
@@ -61,10 +61,10 @@ att din bit om företaget följer samma ordning som i exemplet ovan.
   data: no
   status: <url to documentation>
   ```
-  
+
 ### Andra Länder
 
 Denna webbplats är inriktad på svenska företag, och mäter också parameter för länkade öppna data (standarden DCAT-AP). Vi söker efter dokumentformat som är standard för denna typ av data. Om Sverige har ett standardformat som EEO-1, skicka in en fråga som vi kan använda platsen för att lägga till fler länder.
 
 [yaml]: http://www.yaml.org/
-[issues]: https://github.com/okfse/oppnamangfaldsdata/issues
+[issues]: https://github.com/codeforsweden/oppnamangfaldsdata/issues

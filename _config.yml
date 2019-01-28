@@ -3,10 +3,10 @@ permalink: pretty
 markdown: kramdown
 
 title: Öppna Mångfaldsdata
-author: Open Knowledge Sverige
+author: Code For Sweden
 description: Användardriven lista om företag som har gett ut data om deras anställdas mångfald, inklusive vilket år och om det gjorts med DCAT-AP, den öppna standarden för länkade öppna data.
 url: http://oppnamangfaldsdata.se
-repo: https://github.com/okfse/oppnamangfaldsdata
+repo: https://github.com/codeforsweden/oppnamangfaldsdata
 img: img/logo.png
 
 exclude:
